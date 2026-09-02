@@ -1,0 +1,13 @@
+[
+  {
+    "deviceToken": "TEST_DEVICE_IPHONE",
+    "stepIndex": 1,
+    "questionId": "step_1_intent",
+    "questionText": "When communication paused, how did you perceive it?",
+    "selectedOption": "B: Unspoken frustration and misunderstandings",
+    "category": "communication",
+    "timestamp": "2026-09-02T16:48:13.703Z",
+    "ip": "::1",
+    "userAgent": "node"
+  }
+]
